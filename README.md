@@ -1,9 +1,9 @@
-#Submit Week2 Programming Assignment : arrayiterator
+##Submit Week2 Programming Assignment : arrayiterator
 
-#Author : Sathira Kittisukmongkol
+##Author : Sathira Kittisukmongkol
 
-#Username in Github : nongjamie
+##Username in Github : nongjamie
 
-#Email : sathira.k@ku.th
+##Email : sathira.k@ku.th
 
-#Student ID : 5910545868
+##Student ID : 5910545868
